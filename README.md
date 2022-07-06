@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Alicexplore
 - 👀 I’m interested in coding obviously 
-- 🌱 I’m currently learning html, CSS and starting javascript
-- 👩🏻‍💻 I'll start 
+- 🌱 I’m currently learning html, CSS and starting javascript + algorithmic
+- 👩🏻‍💻 I'll start a tech school in october
