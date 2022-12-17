@@ -1,4 +1,4 @@
 Discovered {coding} lately,
 now trying to create cool stuff.
-I'm am currently learning software development @AdaTechSchool.
-Hi 👋🏻, my name is Alice Bergonhe.
+My name is ALice Bergonhe 👋🏻 and I'm am currently learning software development @AdaTechSchool in Paris.
+
