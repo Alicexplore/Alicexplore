@@ -1,12 +1,12 @@
 # Hello 🖖🏼
 <br />
-▪️ Discovered {coding} lately, now trying to create cool stuff {🕶}. 
+▪️ I discovered {coding} lately, now I'm trying to create cool stuff {🕶}. 
 <br />
 <br />
-▪️ I am currently learning Software Development & I absolutely love it.
+▪️ I'm currently learning Software Development & I absolutely love it.
 <br />
 <br />
-▪️ Living in Paris 📍
+▪️ I'm living in Paris 📍
 <br />
 <br />
 
