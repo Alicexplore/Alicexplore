@@ -1,10 +1,10 @@
 # Hi there 🖖🏼
 
-### ➤ Discovered {coding} lately, now I'm trying to create cool stuff {🕶}. 
+### Discovered {coding} lately, now I'm trying to create cool stuff {🕶}. 
 <br />
-▪️ Currently learning Software Development && I absolutely love it.   
+➤ Currently learning Software Development && I absolutely love it.   
 
-▪️ Paris is where I am 📍
+➤ Paris is where I am 📍
 <br />
 <br />
 
