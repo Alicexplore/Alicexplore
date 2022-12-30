@@ -1,6 +1,6 @@
 # Hi there 🖖🏼
-<br />
-▪ Discovered {coding} lately, now I'm trying to create cool stuff {🕶}. 
+
+### ➤ Discovered {coding} lately, now I'm trying to create cool stuff {🕶}. 
 <br />
 <br />
 ▪️ Currently learning Software Development && I absolutely love it.   
