@@ -6,8 +6,8 @@ I am currently learning Software Development && I absolutely love it.
 <br />
 ➤ Paris is where I am 📍 <br /> <br />
 
-![mac128](https://user-images.githubusercontent.com/102388803/210119214-f3a7fc69-b8a7-4844-a555-0b3221a07603.jpg)
 
+![mac128-01](https://user-images.githubusercontent.com/102388803/210119556-fc63ac51-2228-40ab-9393-657d3bd483c2.jpg)
 
 
 <!-- ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)-->
