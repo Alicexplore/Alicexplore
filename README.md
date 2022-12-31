@@ -8,8 +8,7 @@ I am currently learning Software Development && I absolutely love it.
 <br />
 <br />
 
-![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
-<br />
-<br />
 
-![](https://unsplash.com/fr/photos/aiqKc07b5PA)
+<br />
+<br />
+![mac128](https://user-images.githubusercontent.com/102388803/210119214-f3a7fc69-b8a7-4844-a555-0b3221a07603.jpg)
