@@ -1,4 +1,4 @@
-# Hey, hi there 🖖🏼 
+# Hey,  hi there 🖖🏼 
 <br />
 ➤ I discovered {coding} lately, now I'm trying to create cool stuff {🕶}, <br />
 I am currently learning Software Development {est.oct-22}  &&  I absolutely love it.
