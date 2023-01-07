@@ -1,7 +1,7 @@
 # Hey,  hi there 🖖🏼 
 <br />
 ➤ I discovered {coding} lately, now I'm trying to create cool stuff {🕶}, <br />
-I am currently learning Software Development {est.oct-22}  &&  I absolutely love it.
+I am currently learning Software Development {est.oct-22} @AdaTechSchool  &&  I absolutely love it.
 <br />
 <br />
 ➤ Paris is where I am 📍 <br /> <br />
