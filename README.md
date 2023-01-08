@@ -1,6 +1,6 @@
 # Hey,  hi there 🖖🏼 
 <br />
-➤ I discovered {coding} lately &&  I absolutely love it, so now I'm trying to create cool stuff {🕶}. <br />
+➤ I discovered {coding} lately &&  I absolutely love it, now I'm trying to create cool stuff {🕶}. <br />
 I am currently learning Software Development {est.oct-22} @AdaTechSchool.
 <br />
 <br />
