@@ -7,7 +7,7 @@ I am currently learning Software Development {est.oct-22} @AdaTechSchool  &&  I 
 ➤ Paris is where I am 📍 <br /> <br />
 
 
-![mac128-01](https://user-images.githubusercontent.com/102388803/210119556-fc63ac51-2228-40ab-9393-657d3bd483c2.jpg)
+![lorenzo-herrera-yP89apz2TAA-unsplash](https://user-images.githubusercontent.com/102388803/211193994-8fd761ee-af73-40fb-9271-d6bb27bd2fb1.jpg)
 
 <!-- <sub>Federica Galli / Unsplash</sub>-->
 <!-- ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)-->
