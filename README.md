@@ -1,7 +1,7 @@
 # Hey,  hi there 🖖🏼 
 <br />
-➤ My name is Alice, I discovered {coding} lately and now I'm trying to create cool stuff {🕶}, <br />
-I am currently learning Software Development {est.oct-22} @AdaTechSchool  &&  I absolutely love it.
+➤ My name is Alice, I discovered {coding} lately &&  I absolutely love it, <br /> so now I'm trying to create cool stuff {🕶}. <br />
+I am currently learning Software Development {est.oct-22} @AdaTechSchool.
 <br />
 <br />
 ➤ Paris is where I am 📍 <br /> <br />
