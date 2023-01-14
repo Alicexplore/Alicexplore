@@ -10,10 +10,10 @@ I discovered {coding} lately &&  I absolutely love it, now I'm trying to create 
 <div>
 Paris is where I am 📍 
 </div> 
-  <br />
-    <div>
-<img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="600px"/>
-<div/> 
+
+  
+<!-- <img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="600px"/>-->
+
   <br />
   
 ### ➤ Languages
