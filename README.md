@@ -14,6 +14,7 @@ Paris is where I am 📍
     <div>
 <img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="600px"/>
 <div/> 
+  <br />
   
 ### ➤ Languages
 
