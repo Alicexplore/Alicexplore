@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <h1>Hey,  hi there 🖖🏼<h1/>
+  <h3>Hey,  hi there 🖖🏼<h3/>
 </div> 
 <br />
 <div align="center">  
-➤ I discovered {coding} lately &&  I absolutely love it, now I'm trying to create cool stuff {🕶} and improve my skills. <br />
-I am currently learning Software Development since october 2022 @AdaTechSchool.
+➤ I discovered {coding} lately &&  I absolutely love it, now I'm trying to create cool stuff {🕶} and improve my skills.  <br />
+➤ I am currently learning Software Development since october 2022 @AdaTechSchool.
 </div> 
 <br />
 <br />
