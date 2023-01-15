@@ -42,6 +42,12 @@ Paris is where I am 📍
   <a href="https://www.linkedin.com/in/alicebergonhe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/in/alice_.xplore/">
+    <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://www.twitter.com/in/alicexplore/">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+  </a>
 </div>
 
   
