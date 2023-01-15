@@ -53,9 +53,9 @@ Paris is where I am 📍
   
 ### ➤ My stats
 
-<div>
+<!--<div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-<div/>
+<div/>-->
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alicexplore&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
