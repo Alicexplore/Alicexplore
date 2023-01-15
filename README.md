@@ -5,7 +5,7 @@
 ### ➤ Who am I
 
 <div>  
-I discovered {coding} lately &&  I absolutely love it, now I'm trying to create cool stuff {🕶} and improve my skills.  <br />I am currently learning Software Development since october 2022 @AdaTechSchool.
+I discovered {coding} lately &&  I absolutely love it, now I'm trying to create cool stuff {🕶} and continue to improve my skills.  <br />I am currently learning Software Development since october 2022 @AdaTechSchool.
 </div>
 <div>
 Paris is where I am 📍 
