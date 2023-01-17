@@ -4,15 +4,51 @@
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
 </div>-->
 
-### ➤ Who am I
+### ➤ What do I love in life ?
 
+<br />
 <div> 
-I discovered {coding} lately &&  I absolutely love it, now I'm trying to create cool stuff {🕶} and continue to improve my skills.  <br />
-I am currently learning Software Development since october 2022 @AdaTechSchool.
+I love aesthetic and I love complexity.
+<br />
+I love them both and even more when they merge.
 </div>
+<br />
 <div>
-Paris is where I am 📍 
+I love aesthetic because I like its demands and the fact that it is multiple, changing and always surprising.<br /> So I can travel, marvel, change too, improve my eye on things, propose new aesthetics and then touch people.
+</div>
+<br />
+<div>
+All this sometimes without moving.
+</div>
+<br />
+<div>
+Complexity was my first acolyte, it always made me feel safe, efficient, unique, it may seems paradoxical but it’s not.
+<br />It tells me that everything remains to be done and that there are new things to learn, new problems to solve,<br /> again and again. 
+That is why it's so reassuring, a kind of infinite loop of windows that open on my needs.
+</div>
+<br />
+<div>
+And this because, as far as I can remember, boredom has always been my worst enemy, which is why it was more <br />
+than obvious that Software Development would respond almost instinctively to everything that had been missing until now;<br />
+the biggest and most exciting solution to boredom.
+</div>
+<br />
+<div>
+➤ I am currently learning Software Development @AdaTechSchool {since oct.22} && I absolutely love it.
+</div>
+<br />
+<div>
+➤ I am looking for an apprenticeship as a full-stack or front-end developer for one year to start before July 2023, let’s meet up ! 👋🏼
 </div> 
+<br />
+<div>
+➤ I'm also passionate about cosmology, movies from the 80s, 90s, and definitely unbeatable on musical blind tests.
+</div>
+<br />
+<div>
+➤ Paris is where I am 📍 
+</div> 
+<br />
 
   
 <!-- <img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="600px"/>-->
@@ -37,7 +73,7 @@ Paris is where I am 📍
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  
+<br />  
   
 ### ➤ Reach me on  
   
@@ -52,7 +88,7 @@ Paris is where I am 📍
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
   </a>
 </div>
-
+<br />
   
 ### ➤ My stats
 
@@ -75,3 +111,11 @@ Paris is where I am 📍
  
   
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
+  
+   <!--<div> 
+I discovered {coding} lately &&  I absolutely love it, now I'm trying to create cool stuff {🕶} and continue to improve my skills.  <br />
+I am currently learning Software Development since october 2022 @AdaTechSchool.
+</div>
+<div>
+Paris is where I am 📍 
+</div>-->
