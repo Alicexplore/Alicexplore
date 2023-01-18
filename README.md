@@ -8,8 +8,8 @@
 
 <div> 
 I discovered {coding} lately &&  I absolutely love it.<br /> 
-Now I'm trying to create cool stuff {🕶} and continue to improve my skills with  <br />
-all I see, learn or trying out, with enthusiasm and passion. <br />
+Now I'm trying to create cool stuff {🕶} and continue to improve my skills <br />
+with all I see, learn or trying out, with enthusiasm and passion. <br />
 I am currently learning Software Development since october 2022 @AdaTechSchool.
 </div>
 <div>
