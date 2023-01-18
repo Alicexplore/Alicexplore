@@ -7,8 +7,9 @@
 ### ➤ Who am I
 
 <div> 
-I discovered {coding} lately &&  I absolutely love it.<br /> 
-Now I'm trying to create cool stuff {🕶} and continue to improve my skills.  <br />
+I discovered {coding} lately &&  I absolutely love it,<br /> 
+now I'm trying to create cool stuff {🕶} and continue to improve my skills  <br />
+will all I see, learn and trying out. <br />
 I am currently learning Software Development since october 2022 @AdaTechSchool.
 </div>
 <div>
