@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
 </div>-->
 
-### ➤ Who am I
+### • Who am I
 
 <div> 
 I discovered {coding} lately &&  I absolutely love it.<br /> 
@@ -22,7 +22,7 @@ Paris is where I am 📍
 <!-- <img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="600px"/>-->
 
   
-### ➤ Languages & tools
+### • Languages & tools
 
 <div>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;-->
@@ -43,7 +43,7 @@ Paris is where I am 📍
 </div>
 <br />  
   
-### ➤ Reach me on  
+### • Reach me on  
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/alicebergonhe/">
@@ -58,7 +58,7 @@ Paris is where I am 📍
 </div>
 <br />
   
-### ➤ My stats
+### • My stats
 
 <!--<div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
