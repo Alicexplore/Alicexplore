@@ -6,12 +6,14 @@
 
 ### • Who am I
 
-<div> 
-I discovered {coding} lately &&  I absolutely love it.<br /> 
-Now I'm trying to create cool stuff {🕶} and continue to improve my skills with all I see, <br /> 
-learn or trying out, always with enthusiasm and passion. <br />
-I am currently learning Software Development since october 2022 @AdaTechSchool.
-</div>
+  <div> 
+I discovered {coding} lately &&  I absolutely love it, I have a background in graphic design 
+and I am eager to combine my skills to create innovative projects. 
+I am constantly seeking to improve my abilities through learning and experimentation,
+driven by my passion, curiosity and enthusiasm. I am currently seeking a one-year apprenticeship  
+as a full-stack or front-end developer, starting in June 2023. <br />
+I would love to meet with you to discuss further! 🖖🏼
+  </div>
 <br /> 
 <div>
 Paris is where I am 📍
@@ -130,6 +132,11 @@ the biggest and most exciting solution to boredom.
 ➤ Paris is where I am 📍 
 </div> 
 <br />
+I discovered {coding} lately &&  I absolutely love it.<br /> 
+Now I'm trying to create cool stuff {🕶} and continue to improve my skills with all I see, <br /> 
+learn or trying out, always with enthusiasm and passion. <br />
+I am currently learning Software Development since october 2022 @AdaTechSchool.
+</div>
 </div>-->
 
 
