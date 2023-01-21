@@ -9,7 +9,8 @@
   <div> 
 I discovered coding lately &&  I absolutely love it. <br />
 With a background in graphic design, I am just eager to combine my skills to create innovative projects.<br /> 
-I am constantly seeking to improve my abilities through learning and experimentation, driven by my passion, curiosity and enthusiasm. <br />
+I am constantly seeking to improve my abilities through learning and experimentation, driven by my passion <br /> 
+for programming, my curiosity and my enthusiasm. <br />
 I am currently seeking a one-year apprenticeship as a full-stack or front-end developer, starting in June 2023. <br />
 I would love to meet with you to discuss further! 🖖🏼
   </div>
