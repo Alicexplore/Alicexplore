@@ -1,12 +1,11 @@
 # Hey,  hi there 🖖🏼
-<br />
+
 <!--<div>
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
 </div>-->
 
-### • Who am I
-
-  <div> 
+<!--### • Who am I-->
+<div> 
 Programming has been a total game-changer for me.<br />
 I am constantly immersing myself in the programming world and always seeking to improve my skills through learning<br /> and experimentation. 
 I'm also eager to use my abilities in Design to build truly unique and innovative projects. <br />
