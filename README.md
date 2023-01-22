@@ -7,13 +7,13 @@
 ### • Who am I
 
   <div> 
-I discovered coding lately &&  I absolutely love it. <br />
-With a background in graphic design, I am just eager to combine my skills to create innovative projects and<br /> 
-I am constantly seeking to improve my abilities through learning and experimentation, driven by my passion <br /> 
-for programming, my curiosity and my enthusiasm to learn more each day. <br />
-I am currently seeking a one-year apprenticeship as a full-stack or front-end developer, starting in June 2023. <br />
-I would love to meet with you to discuss further! 🖖🏼
-  </div>
+Programming has been a total game-changer for me.<br />
+I'm absolutely passionate about it and can't wait to combine my background in graphic design with my newfound fervor for coding. <br />
+I've been diving headfirst into the programming world, constantly pushing to improve my skills through learning and experimentation,<br />
+I'm eager to use my abilities to build truly unique and innovative projects. <br />
+I'm currently seeking a one-year apprenticeship as a full-stack or front-end developer starting in June 2023.<br />
+Let's connect and chat more about it! 🖖🏼
+</div>
 <br /> 
 <div>
 Paris is where I am 📍
