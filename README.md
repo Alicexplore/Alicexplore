@@ -8,10 +8,9 @@
 
   <div> 
 Programming has been a total game-changer for me.<br />
-I'm absolutely passionate about it and can't wait to combine my background in graphic design with my newfound fervor for coding. <br />
-I've been diving headfirst into the programming world, constantly pushing to improve my skills through learning and experimentation.<br />
-I'm eager to use my abilities to build truly unique and innovative projects. <br />
-I'm currently seeking a one-year apprenticeship as a full-stack or front-end developer starting in June 2023.<br />
+I am constantly immersing myself in the programming world and always seeking to improve my skills through learning and experimentation. 
+I'm eager to use my abilities in Design to build truly unique and innovative projects. <br />
+I'm currently searching for a one-year apprenticeship as a full-stack or front-end developer starting in June 2023.<br />
 Let's connect and chat more about it! 🖖🏼
 </div>
 <br /> 
