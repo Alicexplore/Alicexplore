@@ -4,13 +4,11 @@
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
 </div>-->
 
-<!--### • Who am I-->
+### • Who am I
 <div> 
-Programming has been a total game-changer for me.<br />
-I am constantly immersing myself in the programming world and always seeking to improve my skills through learning<br /> and experimentation. 
-I'm also eager to use my abilities in Design to build truly unique and innovative projects. <br />
-I'm currently searching for a one-year apprenticeship as a full-stack or front-end developer starting in June 2023.<br />
-Let's connect and chat more about it! 🖖🏼
+Full-stack developer student seeking a 1-year apprenticeship starting June 2023.<br />
+Passionate about programming and design, always seeking to improve skills and build unique projects. <br />
+Connect with me to chat more. 🖖🏼
 </div>
 <br /> 
 <div>
