@@ -10,7 +10,7 @@ Full-stack developer student seeking a 1-year apprenticeship starting June 2023.
 Passionate about programming and design, always seeking to improve skills and build unique projects. <br />
 Connect with me to chat more. 🖖🏼
 </div>
-<br /> 
+ 
 <div>
 Paris is where I am 📍
 </div> 
