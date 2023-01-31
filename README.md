@@ -1,10 +1,13 @@
-# Hey,  hi there 🖖🏼
+<!--# Hey,  hi there 🖖🏼-->
+
+![jhbjhbhj_Plan de travail 1](https://user-images.githubusercontent.com/102388803/215751902-cbae119c-a093-442f-a91e-0626e916063f.jpg)
+
 
 <!--<div>
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
 </div>-->
 
-### • Who am I
+<!--### • Who am I
 <div> 
 Full-stack developer student seeking a 1-year apprenticeship starting June 2023.<br />
 Passionate about programming and design, always seeking to improve skills and build unique projects. <br /><br />
@@ -14,7 +17,7 @@ Connect with me to chat more. 🖖🏼
 <div><br />
 Paris is where I am 📍
 </div> 
-<br />
+<br />-->
 
   
 <!-- <img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="600px"/>
@@ -41,7 +44,7 @@ Paris is where I am 📍
 </div>-->
 
   
-### • Reach me on  
+<!--### • Reach me on-->
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/alicebergonhe/">
@@ -69,7 +72,7 @@ Paris is where I am 📍
 
 
 
-  ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
+ <!--![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)-->
   
   
 <!--![mac128-01](https://user-images.githubusercontent.com/102388803/210119556-fc63ac51-2228-40ab-9393-657d3bd483c2.jpg)-->
