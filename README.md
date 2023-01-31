@@ -8,7 +8,7 @@
 • Passionate about Programming and Design, always seeking to improve skills and build unique projects.
 <br />
 
-• Looking for an apprenticeship as a full-stack or front-end developer to start in june 2023,
+• Looking for an apprenticeship as a full-stack or front-end developer to start in june 2023.
 <br />
 
 • Let's connect with me and chat more 🖖🏼 
