@@ -1,9 +1,17 @@
 <!--# Hey,  hi there 🖖🏼-->
 
 
-![good_Plan de travail 1](https://user-images.githubusercontent.com/102388803/215755567-0e977913-006e-47d6-abc8-a901b4e07458.jpg)
 
+![goodback_Plan de travail 1](https://user-images.githubusercontent.com/102388803/215891657-95377ee6-af4e-49e9-977a-95a40e240d22.jpg)
+<br />
 
+• Passionate about Programming and Design, always seeking to improve skills and build unique projects.
+<br />
+
+• Looking for an apprenticeship as a full-stack or front-end developer to start in june 2023,
+<br />
+
+• Let's connect with me and chat more 🖖🏼 
 
 <!--<div>
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
@@ -13,8 +21,8 @@
 <div> 
 Full-stack developer student seeking a 1-year apprenticeship starting June 2023.<br />
 Passionate about programming and design, always seeking to improve skills and build unique projects. <br /><br />
-Connect with me to chat more. 🖖🏼
 </div>
+
  
 <div><br />
 Paris is where I am 📍
