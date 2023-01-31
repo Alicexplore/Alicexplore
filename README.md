@@ -7,11 +7,11 @@
 ### • Who am I
 <div> 
 Full-stack developer student seeking a 1-year apprenticeship starting June 2023.<br />
-Passionate about programming and design, always seeking to improve skills and build unique projects. <br />
+Passionate about programming and design, always seeking to improve skills and build unique projects. <br /><br />
 Connect with me to chat more. 🖖🏼
 </div>
  
-<div>
+<div><br />
 Paris is where I am 📍
 </div> 
 <br />
