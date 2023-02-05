@@ -6,7 +6,7 @@
 • Let's connect with me and chat more 🖖🏼<br /><br />
 
 
-![The_Website_Project](https://user-images.githubusercontent.com/102388803/216796195-4235bdf6-aaa3-45c3-ad12-f27bb3df0589.gif)
+
 
 
 
@@ -82,7 +82,7 @@ Paris is where I am 📍
 </div>
 <br />
 
-
+![The_Website_Project](https://user-images.githubusercontent.com/102388803/216796195-4235bdf6-aaa3-45c3-ad12-f27bb3df0589.gif)
   
 <!--### • My stats
 
