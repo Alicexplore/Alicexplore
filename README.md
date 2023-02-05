@@ -1,17 +1,27 @@
-<!--# Hey,  hi there 🖖🏼-->
-
-
-
-![goodback_Plan de travail 1](https://user-images.githubusercontent.com/102388803/215891657-95377ee6-af4e-49e9-977a-95a40e240d22.jpg)
+# Hey,  hi there 🖖🏼
 <br />
+• Passionate about Programming and Design, always seeking to improve skills and build unique projects  🚀<br /><br />
+• I am looking for an apprenticeship as a full-stack or front-end developer to start in june 2023.
+<br /><br />
+• Let's connect with me and chat more 🖖🏼<br /><br />
 
-• Passionate about Programming and Design, always seeking to improve skills and build unique projects.
-<br />
 
-• Looking for an apprenticeship as a full-stack or front-end developer to start in june 2023.
-<br />
 
-• Let's connect with me and chat more 🖖🏼 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 <!--<div>
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
@@ -31,6 +41,7 @@ Paris is where I am 📍
 
   
 <!-- <img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="600px"/>
+
 
   
 ### • Languages & tools
@@ -68,6 +79,8 @@ Paris is where I am 📍
   </a>
 </div>
 <br />
+
+https://user-images.githubusercontent.com/102388803/216795799-305a6996-d76b-4dba-90ea-7665baeda0d1.MOV
   
 <!--### • My stats
 
