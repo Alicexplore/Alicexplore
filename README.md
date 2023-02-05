@@ -5,26 +5,22 @@
 <br /><br />
 • Let's connect with me and chat more 🖖🏼<br /><br />
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alicebergonhe/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <a href="https://www.instagram.com/alice_.xplore/">
+    <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://www.twitter.com/alicexplore/">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+  </a>
+</div>
 
+<br />
 
+<video src="https://user-images.githubusercontent.com/102388803/216820564-a0b385f6-4609-4cf1-b482-191b5e8a10a7.webm" width="30%"/>
 
-
-
-
-
-<video src="https://user-images.githubusercontent.com/102388803/216819995-5382731c-9152-4391-8a98-39859ba41bd6.webm" width="30%"/>
-
-
-
-
-
-
-
-
-
-
-
- 
 
 <!--<div>
 <img src="https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif" width="30%"/>
@@ -70,17 +66,7 @@ Paris is where I am 📍
   
 <!--### • Reach me on-->
   
-<div id="badges">
-  <a href="https://www.linkedin.com/in/alicebergonhe/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href="https://www.instagram.com/alice_.xplore/">
-    <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="https://www.twitter.com/alicexplore/">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
-  </a>
-</div>
+
 <br />
 
 ![The_Website_Project](https://user-images.githubusercontent.com/102388803/216796195-4235bdf6-aaa3-45c3-ad12-f27bb3df0589.gif)
