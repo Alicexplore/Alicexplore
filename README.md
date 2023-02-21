@@ -19,8 +19,9 @@
 
 <br />
 
-![WEBSITEGOOD](https://user-images.githubusercontent.com/102388803/216839085-24f5c49f-38ed-48f8-a1e1-8597e8a2c30a.gif)
 
+
+<img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="500">
 
 
 
