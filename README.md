@@ -20,17 +20,22 @@
 <br />
 
 
+## Current Personnal Project
 
-<img src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif" width="500">
+The personal project I am currently working on is a React application for a vegan restaurant website.
+<br /><br />
+<img width="800px" alt="Capture d’écran 2023-03-18 à 16 55 05" src="https://user-images.githubusercontent.com/102388803/226118559-16364677-a418-4821-96d1-ca937d5afef7.png">
+
+<br />
+
+## Current Team Project
+
+The team project I am currently working on is a React application for a furniture sales website.
+<br /><br />
+<img width="800px" alt="Capture d’écran 2023-03-18 à 17 03 47" src="https://user-images.githubusercontent.com/102388803/226118726-c341e89b-c9a5-4f65-9300-9427f4ba266e.png">
 
 
-
-
-
-
- 
-
-
+<br />
 
 
   
