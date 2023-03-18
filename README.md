@@ -1,9 +1,10 @@
 # Hey,  hi there 🖖🏼
 <br />
-• Passionate about Programming and Design, always seeking to improve skills and build unique projects  🚀<br />
-• I am looking for an apprenticeship as a full-stack or front-end developer to start in june 2023.
-<br />
-• Let's connect with me and chat more 🖖🏼<br /><br />
+My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking to improve skills and build unique projects.  🚀
+<br /><br />
+I am learning software development @AdaTechSchool since october 2022 && I am looking for an apprenticeship as a full-stack or front-end developer to start in june 2023.
+<br /><br />
+Let's connect with me and chat more ! 🖖🏼<br /><br />
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alicebergonhe/">
