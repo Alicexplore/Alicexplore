@@ -24,7 +24,7 @@
 
 The personal project I am currently working on is a React application for a vegan restaurant website.
 <br /><br />
-<img width="500px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/226118948-efd84727-104b-481e-b03f-1b811ed57128.png"> <img width="500px" alt="Capture d’écran 2023-03-18 à 16 55 05" src="https://user-images.githubusercontent.com/102388803/226118559-16364677-a418-4821-96d1-ca937d5afef7.png"> <img width="500px" alt="Capture d’écran 2023-03-18 à 16 55 22" src="https://user-images.githubusercontent.com/102388803/226119060-65fc3c49-1ef4-4b61-bfe6-1c2b7470d5b9.png"> <img width="500px" alt="Capture d’écran 2023-03-18 à 16 55 43" src="https://user-images.githubusercontent.com/102388803/226119078-b6a2bef3-f087-4e44-b61b-68891c159dbf.png">
+<img width="400px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/226118948-efd84727-104b-481e-b03f-1b811ed57128.png"> <img width="400px" alt="Capture d’écran 2023-03-18 à 16 55 05" src="https://user-images.githubusercontent.com/102388803/226118559-16364677-a418-4821-96d1-ca937d5afef7.png"> <img width="400px" alt="Capture d’écran 2023-03-18 à 16 55 22" src="https://user-images.githubusercontent.com/102388803/226119060-65fc3c49-1ef4-4b61-bfe6-1c2b7470d5b9.png"> <img width="400px" alt="Capture d’écran 2023-03-18 à 16 55 43" src="https://user-images.githubusercontent.com/102388803/226119078-b6a2bef3-f087-4e44-b61b-68891c159dbf.png">
 
 
 
