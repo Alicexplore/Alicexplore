@@ -1,8 +1,8 @@
 # Hey,  hi there 🖖🏼
 <br />
-My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking to improve skills and build unique projects.  🚀
+My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking <br /> to improve skills and build unique projects.  🚀
 <br /><br />
-I am learning software development @AdaTechSchool since october 2022 && I am looking for an apprenticeship as a full-stack or front-end developer to start in june 2023.
+I am learning software development @AdaTechSchool since october 2022 && I am looking for <br /> an apprenticeship as a full-stack or front-end developer to start in june 2023.
 <br /><br />
 Let's connect with me and chat more ! 🖖🏼<br /><br />
 
