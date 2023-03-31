@@ -23,15 +23,33 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 
 ## Current Personnal Projects, designed and developed.
 
-FAMIGLIA. 
-<br /><br />
-<img width="350px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/226118948-efd84727-104b-481e-b03f-1b811ed57128.png"> 
+### → FAMIGLIA.
+Online vegan restaurant website, possibility to create an account, add items to cart from the menu
+
+<br />
+<img width="1000px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
+
+<br />
+
+#### LANGUAGES & TOOLS
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,mysql,js,nodejs,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
 <br /><br />
 
-LITTLE STORIES ABOUT SNEAKERS
+### → LITTLE STORIES ABOUT SNEAKERS
+
+<br />
+
+<img width="1000px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121346-9df35a92-9c14-4d2b-8ca8-fea8c47dd05c.png"> 
+
+<br />
+
+#### LANGUAGES & TOOLS
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,mysql,js,nodejs,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+
 <br /><br />
-<img width="350px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/226118948-efd84727-104b-481e-b03f-1b811ed57128.png"> 
 
   
 <!--### • Languages & tools
@@ -60,9 +78,11 @@ The team project I am currently working on is a React application for a furnitur
 <br /><br />
 <img width="800px" alt="Capture d’écran 2023-03-18 à 17 03 47" src="https://user-images.githubusercontent.com/102388803/226118726-c341e89b-c9a5-4f65-9300-9427f4ba266e.png">
 
+<img width="1440" alt="Capture d’écran 2023-03-31 à 14 26 40" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png">
 
 <br />
 
+<img width="1440" alt="Capture d’écran 2023-03-31 à 14 20 31" src="https://user-images.githubusercontent.com/102388803/229121346-9df35a92-9c14-4d2b-8ca8-fea8c47dd05c.png">
 
 
 </div>-->
