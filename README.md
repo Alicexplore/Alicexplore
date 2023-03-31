@@ -1,4 +1,4 @@
-# Hey,  hi there 🖖🏼
+# HEY,  HI THERE 🖖🏼
 <br />
 My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking <br /> to improve skills and build unique projects.  🚀
 <br /><br />
@@ -21,15 +21,14 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 <br />
 
 
-## Current Personnal Projects, designed and developed.
+## CURRENT PERSONNAL PROJECTS I AN WORKING ON, DESIGNED THEN DEVELOPED.
 
 ### → FAMIGLIA.
-Online vegan restaurant website, possibility to create an account, add items to cart from the menu
+Online vegan restaurant website, possibility to create an account, add items to cart from the menu, add favourites.
 
 <br />
+
 <img width="1000px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
-
-<br />
 
 #### LANGUAGES & TOOLS
 
@@ -38,12 +37,11 @@ Online vegan restaurant website, possibility to create an account, add items to 
 <br /><br />
 
 ### → LITTLE STORIES ABOUT SNEAKERS
+Blog about sneakers history facts, possibility to create a profile and comments articles.
 
 <br />
 
 <img width="1000px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121346-9df35a92-9c14-4d2b-8ca8-fea8c47dd05c.png"> 
-
-<br />
 
 #### LANGUAGES & TOOLS
 
