@@ -1,5 +1,5 @@
 # HEY,  HI THERE 🖖🏼
-<br />
+<br /><br />
 My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking <br /> to improve skills and build unique projects.  🚀
 <br /><br />
 I am learning software development @AdaTechSchool since october 2022 && I am looking for <br /> an apprenticeship as a full-stack or front-end developer to start in june 2023.
@@ -22,7 +22,7 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 
 
 ## CURRENT PERSONNAL PROJECTS I AN WORKING ON, DESIGNED THEN DEVELOPED.
-
+<br /><br />
 ### → FAMIGLIA.
 Online vegan restaurant website, possibility to create an account, add items to cart from the menu, add favourites.
 
