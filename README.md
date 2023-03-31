@@ -21,9 +21,10 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 <br />
 
 
-## CURRENT PERSONNAL PROJECTS I AN WORKING ON, DESIGNED THEN DEVELOPED.
+## CURRENT PERSONNAL PROJECTS I AM WORKING ON
+
 <br /><br />
-### → FAMIGLIA.
+### → FAMIGLIA. ( DESIGNED & DEVELOPED )
 Online vegan restaurant website, possibility to create an account, add items to cart from the menu, add favourites.
 
 <br />
@@ -36,7 +37,7 @@ Online vegan restaurant website, possibility to create an account, add items to 
 
 <br /><br />
 
-### → LITTLE STORIES ABOUT SNEAKERS
+### → LITTLE STORIES ABOUT SNEAKERS ( DESIGNED & DEVELOPED )
 Blog about sneakers history facts, possibility to create a profile and comments articles.
 
 <br />
