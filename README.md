@@ -18,8 +18,8 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
   </a>
 </div>
 
-<br />
 
+<br /> <br />
 
 ## CURRENT PERSONNAL PROJECTS I AM WORKING ON
 
