@@ -24,7 +24,9 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 ## CURRENT PERSONNAL PROJECTS I AM WORKING ON
 
 <br />
+
 ### → FAMIGLIA. ( DESIGNED & DEVELOPED )
+
 Online vegan restaurant website, possibility to create an account, add items to cart from the menu, add favourites.
 
 <br />
