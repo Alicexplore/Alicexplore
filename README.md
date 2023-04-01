@@ -1,4 +1,4 @@
-# HEY,  HI THERE 🖖🏼
+# Hey,  hi there 🖖🏼
 <br /><br />
 My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking <br /> to improve skills and build unique projects.  🚀
 <br /><br />
