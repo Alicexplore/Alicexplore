@@ -35,7 +35,7 @@ Vegan restaurant website, possibility to create an account, add items to cart fr
 
 #### BUILT WITH : 
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,mysql,js,nodejs,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,mysql,js,express,nodejs,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
 <br /><br />
 
