@@ -31,7 +31,7 @@ Online vegan restaurant website, possibility to create an account, add items to 
 
 <br />
 
-<img width="1000px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
+<img width="800px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
 
 #### LANGUAGES & TOOLS
 
