@@ -31,7 +31,7 @@ Online vegan restaurant website, possibility to create an account, add items to 
 
 <br />
 
-<img width="800px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
+<img width="750px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
 
 #### LANGUAGES & TOOLS
 
@@ -44,7 +44,7 @@ Blog about sneakers history facts, possibility to create a profile, comment the 
 
 <br />
 
-<img width="1000px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
+<img width="750px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
 
 #### LANGUAGES & TOOLS
 
