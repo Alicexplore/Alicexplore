@@ -33,7 +33,7 @@ Vegan restaurant website, possibility to create an account, add items to cart fr
 
 <img width="722px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
 
-#### LANGUAGES & TOOLS
+#### BUILT WITH
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,mysql,js,nodejs,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
@@ -46,7 +46,7 @@ Website and Blog about sneakers, possibility to create a profile, comment the po
 
 <img width="722px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
 
-#### LANGUAGES & TOOLS
+#### BUILT WITH
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,mysql,js,nodejs,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
