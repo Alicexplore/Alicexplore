@@ -27,7 +27,7 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 
 ### → FAMIGLIA. ( DESIGNED & DEVELOPED )
 
-Online vegan restaurant website, possibility to create an account, add items to cart from the menu to command, save favorites.
+Vegan restaurant website, possibility to create an account, add items to cart from the menu, save favorites.
 
 <br />
 
