@@ -27,7 +27,7 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 
 ### → FAMIGLIA. ( DESIGNED & DEVELOPED )
 
-Online vegan restaurant website, possibility to create an account, add items to cart from the menu, add favourites.
+Online vegan restaurant website, possibility to create an account, add items to cart from the menu to command, save favorites.
 
 <br />
 
@@ -40,7 +40,7 @@ Online vegan restaurant website, possibility to create an account, add items to 
 <br /><br />
 
 ### → LITTLE STORIES ABOUT SNEAKERS ( DESIGNED & DEVELOPED )
-Blog about sneakers history facts, possibility to create a profile and comments articles.
+Blog about sneakers history facts, possibility to create a profile, comment the posts/articles, save favorites.
 
 <br />
 
