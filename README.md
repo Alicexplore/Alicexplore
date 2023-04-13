@@ -52,6 +52,19 @@ Website and Blog about sneakers, possibility to create a profile, comment the po
 
 <br /><br />
 
+### → NEW VERSION OF MY PORTFOLIO ( DESIGNED & DEVELOPED )
+New design, new features, new effects, dark mode.
+
+<br />
+
+<img width="722px" alt="Capture d’écran 2023-04-13 à 18 54 03" src="https://user-images.githubusercontent.com/102388803/231831306-e4369935-82c3-4421-a006-9fd1dad5bc0b.png"> 
+
+#### BUILT WITH : 
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,figma,github,git)](https://skillicons.dev)
+
+<br /><br />
+
   
 <!--### • Languages & tools
 
