@@ -31,7 +31,7 @@ Vegan restaurant website, possibility to create an account, add items to cart fr
 
 <br />
 
-<img width="722px" alt="Capture d’écran 2023-03-18 à 16 57 45" src="https://user-images.githubusercontent.com/102388803/229121213-783d53b7-8078-462c-9f7a-99754d885059.png"> 
+<img width="722px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
 
 #### BUILT WITH : 
 
