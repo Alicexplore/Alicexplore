@@ -57,7 +57,7 @@ New design, new features, new effects, dark mode.
 
 <br />
 
-<img width="722px" alt="Capture d’écran 2023-04-15 à 23 38 11" src="https://user-images.githubusercontent.com/102388803/232254180-0fe48712-97a9-41c0-ad41-7372050283d3.png">
+<img width="722px" alt="Capture d’écran 2023-04-17 à 15 11 43" src="https://user-images.githubusercontent.com/102388803/232495308-237ed876-a45d-4e6a-87df-86891a875ff4.png">
 
 #### BUILT WITH : 
 
