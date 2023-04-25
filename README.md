@@ -21,7 +21,7 @@ Let's connect with me and chat more ! 🖖🏼<br /><br />
 
 <br /> <br />
 
-## CURRENT PERSONNAL PROJECTS I AM WORKING ON
+## CURRENT PERSONNAL PROJECTS I AM WORKING ON ↓
 
 <br />
 
