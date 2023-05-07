@@ -61,7 +61,7 @@ New design, new features, new effects, dark mode.
 
 #### BUILT WITH : 
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,figma,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
 <br /><br />
 
