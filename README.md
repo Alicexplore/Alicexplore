@@ -4,7 +4,7 @@ My name is Alice Bergonhe, I am Passionate about Programming and Design and alwa
 <br /><br />
 I am learning software development @AdaTechSchool since october 2022 && I am looking for <br /> an apprenticeship as a front-end developer who could start from September 2023.
 <br /><br />
-Let's connect with me and chat more ! 🖖 🏼<br /><br />
+Let's connect with me and chat more ! 🖖 <br /><br />
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alicebergonhe/">
