@@ -1,4 +1,4 @@
-![bshdjb-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/87015526-e734-4289-bc0f-98825479057d)
+![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/1551989c-c2f2-4538-9735-2eadc2b1a8eb)
 
 
 
