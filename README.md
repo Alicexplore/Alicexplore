@@ -2,7 +2,7 @@
 ![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/c82c392f-5ee5-435f-98eb-d21a8270d05e)
 
 <br />
-I am a Software Developer Student, passionate about Programming, Design, and always seeking to improve skills and build unique projects.  🚀
+I am a Software Developer Student, passionate about Programming, Design, and always seeking to improve skills and build unique projects. Feel free to contact me, I love sharing about coding 🚀
 <br />
 <!--Let's connect with me and chat more ! 🖖 <br /><br />
 
