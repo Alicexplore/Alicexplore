@@ -42,7 +42,7 @@ Handmade Ceramics online shop.
 
 #### BUILT WITH : 
 
-[![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,scss,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,scss,nodejs,vscode,github,git)](https://skillicons.dev)
 
 
 
