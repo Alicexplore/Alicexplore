@@ -109,10 +109,16 @@ New design, new features, new effects, dark mode.
 
 </details>
 
-<br /> <br />
+<br /> 
 
 <a href="https://linkedin.com/in/alicebergonhe">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px; text-align: center;">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px;">
+</a>
+<a href="https://twitter.com/alicexplore">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" style="width: 50px;">
+</a>
+<a href="https://instagram.com/alicexplore">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" style="width: 50px;">
 </a>
 
   
