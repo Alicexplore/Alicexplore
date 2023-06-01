@@ -23,6 +23,21 @@ Let's connect with me and chat more ! 🖖 <br /><br />
 
 <br />
 
+### → HÖMS ( DESIGNED & DEVELOPED )
+
+Handmade Ceramics online shop, add items to cart.
+
+<br />
+
+<img width="700px" alt="Capture d’écran 2023-06-01 à 16 45 44" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/4a878f1c-01eb-4395-9620-fd7e18a0d1c6">
+
+
+#### BUILT WITH : 
+
+[![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,scss,vscode,github,git)](https://skillicons.dev)
+
+<br /><br />
+
 ### → FAMIGLIA. ( DESIGNED & DEVELOPED )
 
 Vegan restaurant website, possibility to create an account, add items to cart from the menu, save favorites.
