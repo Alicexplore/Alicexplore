@@ -1,9 +1,9 @@
 
 ![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/c82c392f-5ee5-435f-98eb-d21a8270d05e)
 
-<br /><br />
+<br />
 I am a Software Developer Student, passionate about Programming, Design, and always seeking to improve skills and build unique projects.  🚀
-<br /><br />
+<br />
 <!--Let's connect with me and chat more ! 🖖 <br /><br />
 
 <div id="badges">
@@ -19,15 +19,21 @@ I am a Software Developer Student, passionate about Programming, Design, and alw
 </div> -->
 
 
+
+<!-- ## CURRENT PERSONNAL PROJECTS I AM WORKING ON ↓
+
+ -->
+ 
+
+
 <br /> <br />
 
-## CURRENT PERSONNAL PROJECTS I AM WORKING ON ↓
+<details>
+<summary><b>CURRENT PROJECT → HÖMS ( DESIGNED & DEVELOPED )</b></summary>
+  
+  <br />
 
-<br />
-
-### → HÖMS ( DESIGNED & DEVELOPED )
-
-Handmade Ceramics online shop, add items to cart.
+Handmade Ceramics online shop.
 
 <br />
 
@@ -38,9 +44,18 @@ Handmade Ceramics online shop, add items to cart.
 
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,scss,vscode,github,git)](https://skillicons.dev)
 
-<br /><br />
+</details>
 
-### → FAMIGLIA. ( DESIGNED & DEVELOPED )
+
+
+
+
+
+ 
+<details>
+<summary><b>FAMIGLIA. ( DESIGNED & DEVELOPED )</b></summary>
+
+<br />
 
 Vegan restaurant website, possibility to create an account, add items to cart from the menu, save favorites.
 
@@ -52,9 +67,17 @@ Vegan restaurant website, possibility to create an account, add items to cart fr
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
-<br /><br />
+</details>
+  
 
-### → LITTLE STORIES ABOUT SNEAKERS ( DESIGNED & DEVELOPED )
+ 
+
+  
+<details>
+<summary><b>LITTLE STORIES ABOUT SNEAKERS ( DESIGNED & DEVELOPED )</b></summary>
+
+  <br />
+  
 Website and Blog about sneakers, possibility to create a profile, comment the posts/articles, save favorites.
 
 <br />
@@ -65,9 +88,15 @@ Website and Blog about sneakers, possibility to create a profile, comment the po
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
-<br /><br />
+</details>
 
-### → NEW VERSION OF MY PORTFOLIO ( DESIGNED & DEVELOPED )
+
+
+<details>
+<summary><b>NEW VERSION OF MY PORTFOLIO ( DESIGNED & DEVELOPED )</b></summary>
+
+  <br />
+
 New design, new features, new effects, dark mode.
 
 <br />
@@ -78,6 +107,14 @@ New design, new features, new effects, dark mode.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
-<br /><br />
+</details>
+
+<br /> <br />
+  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+<a href="https://linkedin/in/alicebergonhe">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px; text-align: center;">
+</a>
 
   
