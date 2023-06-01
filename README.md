@@ -1,3 +1,7 @@
+
+![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/c82c392f-5ee5-435f-98eb-d21a8270d05e)
+
+
 # Hey,  hi there 🖖🏼
 <br /><br />
 My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking <br /> to improve skills and build unique projects.  🚀
