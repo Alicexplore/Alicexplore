@@ -110,10 +110,8 @@ New design, new features, new effects, dark mode.
 </details>
 
 <br /> <br />
-  
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
-<a href="https://linkedin/in/alicebergonhe">
+<a href="linkedin/in/alicebergonhe">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px; text-align: center;">
 </a>
 
