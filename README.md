@@ -28,10 +28,10 @@ I am a Software Developer Student, passionate about Programming, Design, and alw
 
 <br /> <br />
 
-<details>
-<summary><b>CURRENT PROJECT → HÖMS ( DESIGNED & DEVELOPED )</b></summary>
+
+<h4><b>CURRENT PROJECT → HÖMS ( DESIGNED & DEVELOPED )</b></h4>
   
-  <br />
+  
 
 Handmade Ceramics online shop.
 
@@ -44,10 +44,10 @@ Handmade Ceramics online shop.
 
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,scss,vscode,github,git)](https://skillicons.dev)
 
-</details>
 
 
 
+<br />
 
 
 
