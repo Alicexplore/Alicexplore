@@ -117,7 +117,7 @@ New design, new features, new effects, dark mode.
 <a href="https://twitter.com/alicexplore">
   <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" style="width: 50px;">
 </a>
-<a href="https://instagram.com/alicexplore">
+<a href="https://instagram.com/alice_.xplore/">
   <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" style="width: 50px;">
 </a>
 
