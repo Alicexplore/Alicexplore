@@ -57,7 +57,7 @@ Handmade Ceramics online shop.
 
 <br />
 
-Vegan restaurant website, possibility to create an account, add items to cart from the menu, save favorites.
+Vegan restaurant website.
 
 <br />
 
@@ -78,7 +78,7 @@ Vegan restaurant website, possibility to create an account, add items to cart fr
 
   <br />
   
-Website and Blog about sneakers, possibility to create a profile, comment the posts/articles, save favorites.
+Website and Blog about sneakers.
 
 <br />
 
