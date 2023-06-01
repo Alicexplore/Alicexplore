@@ -1,12 +1,10 @@
 
 ![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/c82c392f-5ee5-435f-98eb-d21a8270d05e)
 
-
-# Hey,  hi there 🖖🏼
 <br /><br />
-My name is Alice Bergonhe, I am Passionate about Programming and Design and always seeking <br /> to improve skills and build unique projects.  🚀
+I am a Software Developer Student, passionate about Programming, Design, and always seeking to improve skills and build unique projects.  🚀
 <br /><br />
-Let's connect with me and chat more ! 🖖 <br /><br />
+<!--Let's connect with me and chat more ! 🖖 <br /><br />
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alicebergonhe/">
@@ -18,7 +16,7 @@ Let's connect with me and chat more ! 🖖 <br /><br />
   <a href="https://www.twitter.com/alicexplore/">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
   </a>
-</div>
+</div> -->
 
 
 <br /> <br />
