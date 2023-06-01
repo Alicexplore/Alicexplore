@@ -1,9 +1,9 @@
-![cqsxqsx-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/1bd7e290-9836-4a32-8385-8834671c03a4)
+![bshdjb-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/87015526-e734-4289-bc0f-98825479057d)
 
 
 
 <br />
-I am a Software Developer Student, passionate about Programming, Design, and always seeking to improve skills and build unique projects. Feel free to contact me, I love sharing about coding 🚀
+My name is alice, I am a Software Developer Student, passionate about Programming & Design, and always seeking to improve skills and build unique projects 🚀
 <br />
 <!--Let's connect with me and chat more ! 🖖 <br /><br />
 
