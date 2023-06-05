@@ -1,9 +1,5 @@
-![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/1551989c-c2f2-4538-9735-2eadc2b1a8eb)
+<img width="1400px" alt="Capture d’écran 2023-06-01 à 16 45 44" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/f02e4b0d-bbae-4fc6-861a-1e54b6e2debb">
 
-
-
-<br />
-My name is alice, I am a Software Developer Student, passionate about Programming, Design and always seeking to improve skills and build unique projects 🚀
 <br />
 <!--Let's connect with me and chat more ! 🖖 <br /><br />
 
