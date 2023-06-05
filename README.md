@@ -27,7 +27,7 @@ My name is Alice Bergonhe, I am a software developer student passionate about pr
  
 
 
-<br /> <br />
+<br />
 
 
 <h4><b>CURRENT PROJECT → HÖMS ( DESIGNED & DEVELOPED )</b></h4>
