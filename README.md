@@ -34,7 +34,7 @@ My name is alice, I am a Software Developer Student, passionate about Programmin
   
   
 
-Handmade Ceramics online shop.
+Handmade Ceramics online shop built with Ember.
 
 <br />
 
