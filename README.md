@@ -31,10 +31,7 @@ My name is Alice Bergonhe, I am a software developer student passionate about pr
 
 
 <h4><b>CURRENT PROJECT → HÖMS ( DESIGNED & DEVELOPED )</b></h4>
-  
-  
-
-Handmade Ceramics online shop built with Ember.
+ 
 
 <br />
 
