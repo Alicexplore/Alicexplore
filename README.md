@@ -1,6 +1,10 @@
-<img width="1400px" alt="Capture d’écran 2023-06-01 à 16 45 44" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/f02e4b0d-bbae-4fc6-861a-1e54b6e2debb">
+![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/46454639-3ea5-4a8b-a565-12adf74620e0)
+
 
 <br />
+
+My name is Alice Bergonhe, I am a software developer student passionate about programming, design and I am always seeking to improve skills, build unique projects, take on new challenges. Feel free to explore my GitHub projects and let's have a conversation about them 🚀
+
 <!--Let's connect with me and chat more ! 🖖 <br /><br />
 
 <div id="badges">
