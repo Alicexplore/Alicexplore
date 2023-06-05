@@ -59,7 +59,7 @@ Vegan restaurant website.
 
 <br />
 
-<img width="700px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
+<img width="1200px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
 
 #### BUILT WITH : 
 
@@ -80,7 +80,7 @@ Website and Blog about sneakers.
 
 <br />
 
-<img width="700px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
+<img width="1200px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
 
 #### BUILT WITH : 
 
@@ -99,7 +99,7 @@ New design, new features, new effects, dark mode.
 
 <br />
 
-<img width="700px" alt="Capture d’écran 2023-04-17 à 15 11 43" src="https://user-images.githubusercontent.com/102388803/232495308-237ed876-a45d-4e6a-87df-86891a875ff4.png">
+<img width="1200px" alt="Capture d’écran 2023-04-17 à 15 11 43" src="https://user-images.githubusercontent.com/102388803/232495308-237ed876-a45d-4e6a-87df-86891a875ff4.png">
 
 #### BUILT WITH : 
 
