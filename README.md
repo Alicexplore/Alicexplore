@@ -53,9 +53,6 @@ My name is Alice Bergonhe, I am a software developer student passionate about pr
 <details>
 <summary><b>FAMIGLIA. ( DESIGNED & DEVELOPED )</b></summary>
 
-<br />
-
-Vegan restaurant website.
 
 <br />
 
@@ -74,9 +71,6 @@ Vegan restaurant website.
 <details>
 <summary><b>LITTLE STORIES ABOUT SNEAKERS ( DESIGNED & DEVELOPED )</b></summary>
 
-  <br />
-  
-Website and Blog about sneakers.
 
 <br />
 
@@ -95,9 +89,6 @@ Website and Blog about sneakers.
 
   <br />
 
-New design, new features, new effects, dark mode.
-
-<br />
 
 <img width="1200px" alt="Capture d’écran 2023-04-17 à 15 11 43" src="https://user-images.githubusercontent.com/102388803/232495308-237ed876-a45d-4e6a-87df-86891a875ff4.png">
 
