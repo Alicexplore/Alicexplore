@@ -65,8 +65,8 @@ My name is Alice Bergonhe, I am a software developer student passionate about pr
 </details>
   
 
- 
-
+ <br />
+<br />
   
 <details>
 <summary><b>LITTLE STORIES ABOUT SNEAKERS ( DESIGNED & DEVELOPED )</b></summary>
@@ -82,7 +82,8 @@ My name is Alice Bergonhe, I am a software developer student passionate about pr
 
 </details>
 
-
+<br />
+<br />
 
 <details>
 <summary><b>NEW VERSION OF MY PORTFOLIO ( DESIGNED & DEVELOPED )</b></summary>
