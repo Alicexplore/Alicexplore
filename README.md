@@ -1,4 +1,4 @@
-![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/46454639-3ea5-4a8b-a565-12adf74620e0)
+![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/37572a85-bdde-4849-a325-6459515c3bea)
 
 
 <br />
