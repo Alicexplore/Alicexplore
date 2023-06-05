@@ -3,7 +3,7 @@
 
 
 <br />
-My name is alice, I am a Software Developer Student, passionate about Programming & Design, always seeking to improve skills and build unique projects 🚀
+My name is alice, I am a Software Developer Student, passionate about Programming, Design and always seeking to improve skills and build unique projects 🚀
 <br />
 <!--Let's connect with me and chat more ! 🖖 <br /><br />
 
