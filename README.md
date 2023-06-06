@@ -3,7 +3,7 @@
 
 <br />
 
-My name is Alice Bergonhe, I am a software developer student passionate about programming, design and I am always seeking to improve skills, build unique projects, take on new challenges. Feel free to explore my GitHub projects and let's have a conversation about them 🚀
+<!--My name is Alice Bergonhe, I am a software developer student passionate about programming, design and I am always seeking to improve skills, build unique projects, take on new challenges. Feel free to explore my GitHub projects and let's have a conversation about them 🚀-->
 
 <!--Let's connect with me and chat more ! 🖖 <br /><br />
 
