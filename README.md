@@ -29,7 +29,7 @@
 
 
 
-<h4><b>CURRENT PROJECT → HÖMS ( DESIGNED & DEVELOPED )</b></h4>
+<h4><b>◼️ CURRENT PROJECT → HÖMS ( DESIGNED & DEVELOPED )</b></h4>
  
 
 <br />
