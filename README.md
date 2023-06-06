@@ -1,7 +1,6 @@
 ![linkedinlogo-03](https://github.com/Alicexplore/Alicexplore/assets/102388803/37572a85-bdde-4849-a325-6459515c3bea)
 
 
-<br />
 
 <!--My name is Alice Bergonhe, I am a software developer student passionate about programming, design and I am always seeking to improve skills, build unique projects, take on new challenges. Feel free to explore my GitHub projects and let's have a conversation about them 🚀-->
 
