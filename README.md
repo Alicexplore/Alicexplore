@@ -85,7 +85,7 @@
 <br />
 
 <details>
-<summary><b>NEW VERSION OF MY PORTFOLIO ( DESIGNED & DEVELOPED )</b></summary>
+<summary><b>DARKMODE MY PORTFOLIO ( DESIGNED & DEVELOPED )</b></summary>
 
   <br />
 
