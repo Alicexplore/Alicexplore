@@ -34,8 +34,7 @@
 
 <br />
 
-<img width="1200px" alt="Capture d’écran 2023-06-01 à 16 45 44" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/4a878f1c-01eb-4395-9620-fd7e18a0d1c6">
-
+<img width="1200px" alt="Capture d’écran 2023-06-08 à 13 04 22" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/ad5b81aa-7614-46cd-946e-e5af3f6610bf">
 
 #### BUILT WITH : 
 
