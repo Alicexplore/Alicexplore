@@ -19,9 +19,7 @@
 
 
 
-<!-- ## CURRENT PERSONNAL PROJECTS I AM WORKING ON ↓
 
- -->
  
 
 
