@@ -1,7 +1,7 @@
 ![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/3171605e-20fb-46f2-8c87-fd888b583778)
 
 
-<h4><b>◼️ CURRENT PROJECTS → WONDERFUL PLACES + HÖMS ( DESIGNED & DEVELOPED )</b></h4>
+<h4><b>◼️ CURRENT PERSONNAL PROJECTS → WONDERFUL PLACES + HÖMS ( DESIGNED & DEVELOPED )</b></h4>
  
 
 <br />
