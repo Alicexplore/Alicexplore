@@ -18,24 +18,10 @@
 
 
 <br />
-
-
-
- 
-<details>
-<summary><b>◼️ FAMIGLIA. ( DESIGNED & DEVELOPED )</b></summary>
-
-
-<br />
-
-<img width="1200px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
-
-#### BUILT WITH : 
-
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
-
-</details>
   
+
+
+
 
  <br />
 <br />
@@ -71,7 +57,22 @@
 
 </details>
 
+<br />
+<br />
 
+<details>
+<summary><b>◼️ FAMIGLIA. ( DESIGNED & DEVELOPED )</b></summary>
+
+
+<br />
+
+<img width="1200px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
+
+#### BUILT WITH : 
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+
+</details>
 
 <!--
 <a href="https://linkedin.com/in/alicebergonhe">
