@@ -1,4 +1,4 @@
-![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/3171605e-20fb-46f2-8c87-fd888b583778)
+![hbdkqshdk-09](https://github.com/Alicexplore/Alicexplore/assets/102388803/0ed59c2f-f5db-4390-be6b-f0682db8d691)
 
 
 <h4><b>◼️ CURRENT PERSONAL PROJECTS → HÖMS + WONDERFUL PLACES ( DESIGNED & DEVELOPED )</b></h4>
@@ -8,7 +8,7 @@
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
-![linkedinlogo-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/1b6f44eb-716a-4fad-be72-80386cc92055)
+![nsdkjfn-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/2daaa6af-2c0d-4ed3-8066-17785605a446)
 
 <img width="1200px" alt="Capture d’écran 2023-06-08 à 13 04 22" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/3250cce9-e5ba-4c43-a138-b4d9cff8777e">
 
