@@ -31,7 +31,7 @@
 
 <details>
 
-<summary><b> LITTLE STORIES ABOUT SNEAKERS ( DESIGNED && DEVELOPED )</b></summary>
+<summary><b> LITTLE STORIES ABOUT SNEAKERS { DESIGNED && DEVELOPED }</b></summary>
 
 
 <br />
@@ -48,7 +48,7 @@
 
 
 <details>
-<summary><b> DARKMODE PORTFOLIO ( DESIGNED && DEVELOPED )</b></summary>
+<summary><b> DARKMODE PORTFOLIO { DESIGNED && DEVELOPED }</b></summary>
 
   <br />
 
@@ -65,7 +65,7 @@
 
 
 <details>
-<summary><b> FAMIGLIA. ( DESIGNED && DEVELOPED )</b></summary>
+<summary><b> FAMIGLIA. { DESIGNED && DEVELOPED }</b></summary>
 
 
 <br />
