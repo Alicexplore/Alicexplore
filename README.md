@@ -1,5 +1,5 @@
 
-![new-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/8a745709-a585-4aab-83e4-8385b37d7074)
+![good-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/cd091ef5-1be2-411d-8140-f1131a1d30b5)
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
@@ -10,7 +10,7 @@
 
  </details>
 
-![new-05](https://github.com/Alicexplore/Alicexplore/assets/102388803/f7f0ee40-729b-4374-9b59-b10a2c2d9fb8)
+![good-05](https://github.com/Alicexplore/Alicexplore/assets/102388803/488d06fe-abc7-4db7-a183-1417d32cb6de)
 
 <img width="1200px" alt="Capture d’écran 2023-06-08 à 13 04 22" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/3250cce9-e5ba-4c43-a138-b4d9cff8777e">
 
@@ -21,7 +21,9 @@
 
 </details>
  
-![new-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/052dceb0-daa0-49d6-b0a2-965b58894999)
+ 
+ ![good-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/1d0f97c9-5a09-451a-9253-7cf68c3b13b2)
+
 
 <details>
 
