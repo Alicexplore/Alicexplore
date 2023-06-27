@@ -1,13 +1,9 @@
 
-![linkedinlogo-09](https://github.com/Alicexplore/Alicexplore/assets/102388803/473c8444-3dad-4337-ac66-fe4c15cc85e2)
-
+![hello-09](https://github.com/Alicexplore/Alicexplore/assets/102388803/e1d665d9-a22f-4578-839f-4da94d9677e3)
 
 <!-- <h4><b>◼️ CURRENT PERSONAL PROJECTS → HÖMS + WONDERFUL PLACES ( DESIGNED & DEVELOPED )</b></h4> -->
 
-![linkedinlogobanner-11](https://github.com/Alicexplore/Alicexplore/assets/102388803/74bd455d-3ab4-4eda-a275-d344a8bee5ed)
-
-
-
+![hello-11](https://github.com/Alicexplore/Alicexplore/assets/102388803/92a707ee-7d8f-460c-b99e-af9f66710796)
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
@@ -19,17 +15,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,scss,nodejs,vscode,github,git)](https://skillicons.dev)
 
-
-
-  
-
-
-
-
  <br />
 
-
-![linkedinlogobanner-12](https://github.com/Alicexplore/Alicexplore/assets/102388803/1383b1dd-915e-4a87-a2ab-21d0be9ee475)
+![hello-12](https://github.com/Alicexplore/Alicexplore/assets/102388803/38defe85-e967-470d-bb36-4098e365754d)
 
 <details>
 <summary><b> LITTLE STORIES ABOUT SNEAKERS ( DESIGNED && DEVELOPED )</b></summary>
