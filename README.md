@@ -9,11 +9,9 @@
 
  </details>
 
-![plusup-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/c6eb9710-239f-43c0-89ac-93c6b5078140)
+![linkedinlogo-05](https://github.com/Alicexplore/Alicexplore/assets/102388803/24ccfe4f-32fb-46df-8803-adebb3ba5890)
 
 <img width="1200px" alt="Capture d’écran 2023-06-08 à 13 04 22" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/3250cce9-e5ba-4c43-a138-b4d9cff8777e">
-
-<!-- #### BUILT WITH :  -->
 
 <details>
  <summary><b>BUILT WITH : </b></summary>
@@ -22,8 +20,8 @@
 
  </details>
  <br />
-
-![githubbanners-12](https://github.com/Alicexplore/Alicexplore/assets/102388803/2353c1d3-beae-4eb7-a8bb-abb8027a37b7)
+ 
+![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/3e034a39-b3d6-439f-8e5b-91ecf62f4961)
 
 <details>
 
