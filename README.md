@@ -7,8 +7,6 @@
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
-<br /> 
-
 <details>
  <summary><b>BUILT WITH : </b></summary>
  
@@ -21,8 +19,6 @@
 <img width="1200px" alt="Capture d’écran 2023-06-08 à 13 04 22" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/3250cce9-e5ba-4c43-a138-b4d9cff8777e">
 
 <!-- #### BUILT WITH :  -->
-
-<br /> 
 
 <details>
  <summary><b>BUILT WITH : </b></summary>
