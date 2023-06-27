@@ -1,4 +1,4 @@
-![linkedinlogo-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/714b2e64-7ee8-418d-a82b-6829e3abafa8)
+![linkedinlogo-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/ff51f52b-38a9-4f1c-9f91-d0ca0b897a9e)
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
