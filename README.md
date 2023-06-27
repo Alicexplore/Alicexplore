@@ -1,5 +1,5 @@
 
-![linkedinlogo-09](https://github.com/Alicexplore/Alicexplore/assets/102388803/ed6909b4-a304-490a-8c9e-91914884c281)
+![linkedinlogo-09](https://github.com/Alicexplore/Alicexplore/assets/102388803/473c8444-3dad-4337-ac66-fe4c15cc85e2)
 
 
 <h4><b>◼️ CURRENT PERSONAL PROJECTS → HÖMS + WONDERFUL PLACES ( DESIGNED & DEVELOPED )</b></h4>
