@@ -19,9 +19,8 @@
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,nodejs,vscode,github,git)](https://skillicons.dev)
 
  </details>
- <br />
  
-![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/3e034a39-b3d6-439f-8e5b-91ecf62f4961)
+![banner-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/344749ae-d95e-4e14-ab1a-1f2fe1dcd297)
 
 <details>
 
