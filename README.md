@@ -32,7 +32,7 @@
 ![linkedinlogobanner-12](https://github.com/Alicexplore/Alicexplore/assets/102388803/1383b1dd-915e-4a87-a2ab-21d0be9ee475)
 
 <details>
-<summary><b>◼️ LITTLE STORIES ABOUT SNEAKERS ( DESIGNED & DEVELOPED )</b></summary>
+<summary><b> LITTLE STORIES ABOUT SNEAKERS ( DESIGNED && DEVELOPED )</b></summary>
 
 
 <br />
@@ -46,10 +46,10 @@
 </details>
 
 <br />
-<br />
+
 
 <details>
-<summary><b>◼️ DARKMODE PORTFOLIO ( DESIGNED & DEVELOPED )</b></summary>
+<summary><b> DARKMODE PORTFOLIO ( DESIGNED && DEVELOPED )</b></summary>
 
   <br />
 
@@ -63,10 +63,10 @@
 </details>
 
 <br />
-<br />
+
 
 <details>
-<summary><b>◼️ FAMIGLIA. ( DESIGNED & DEVELOPED )</b></summary>
+<summary><b> FAMIGLIA. ( DESIGNED && DEVELOPED )</b></summary>
 
 
 <br />
