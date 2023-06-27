@@ -11,15 +11,22 @@
 
 <img width="1200px" alt="Capture d’écran 2023-06-08 à 13 04 22" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/3250cce9-e5ba-4c43-a138-b4d9cff8777e">
 
-#### BUILT WITH : 
+<!-- #### BUILT WITH :  -->
 
+<br /> 
+
+<details>
+ <summary><b>BUILT WITH : </b></summary>
+ 
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,scss,nodejs,vscode,github,git)](https://skillicons.dev)
 
+ </details>
  <br />
 
 ![hello-12](https://github.com/Alicexplore/Alicexplore/assets/102388803/38defe85-e967-470d-bb36-4098e365754d)
 
 <details>
+
 <summary><b> LITTLE STORIES ABOUT SNEAKERS ( DESIGNED && DEVELOPED )</b></summary>
 
 
