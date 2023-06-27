@@ -74,6 +74,7 @@
 
 </details>
 
+
 <!--
 <a href="https://linkedin.com/in/alicebergonhe">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px;">
