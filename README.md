@@ -1,5 +1,4 @@
-
-![good-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/cd091ef5-1be2-411d-8140-f1131a1d30b5)
+![okfirst-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/51bae7e3-3468-4560-930e-2d93df11d58f)
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
@@ -74,6 +73,7 @@
 
 </details>
 
+<!-- ![Lightbulb](https://img.shields.io/badge/theme-light%20%F0%9F%94%A6-yellow?style=flat-square) -->
 
 <!--
 <a href="https://linkedin.com/in/alicebergonhe">
