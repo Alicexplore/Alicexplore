@@ -91,5 +91,4 @@ https://the-portfolio-project.vercel.app/
 <a href="https://instagram.com/alice_.xplore/">
   <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" style="width: 50px;">
 </a>
-
   -->
