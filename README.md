@@ -20,8 +20,9 @@
 
 
 <details>
-<summary><b>BUILT WITH : </b></summary>
  
+<summary><b>BUILT WITH : </b></summary>
+
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,nodejs,vscode,github,git)](https://skillicons.dev)
 
 </details>
@@ -36,11 +37,17 @@
 
 <br />
 
+
+
 <img width="1200px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
 
-#### BUILT WITH : 
+<details>
+ 
+<summary><b>BUILT WITH :</b></summary> 
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+
+</details>
 
 </details>
 
@@ -54,9 +61,13 @@
 
 <img width="1200px" alt="Capture d’écran 2023-04-17 à 15 11 43" src="https://user-images.githubusercontent.com/102388803/232495308-237ed876-a45d-4e6a-87df-86891a875ff4.png">
 
-#### BUILT WITH : 
+<details>
+
+<summary><b>BUILT WITH :</b></summary> 
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+
+</details>
 
 https://the-portfolio-project.vercel.app/
 
@@ -73,9 +84,13 @@ https://the-portfolio-project.vercel.app/
 
 <img width="1200px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
 
-#### BUILT WITH : 
+<details>
+
+<summary><b>BUILT WITH :</b></summary> 
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+
+</details>
 
 </details>
 
