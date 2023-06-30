@@ -54,6 +54,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
+https://the-portfolio-project.vercel.app/
+
 </details>
 
 <br />
