@@ -1,4 +1,7 @@
-![linkedinlogo-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/c820a775-6e08-4811-9f33-d06940eca4de)
+![fsdfsd-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/1e4fbd08-c281-43d6-ad1a-76bbb87d5b9c)
+
+![ertert-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/11561cf1-b848-4dc0-b157-41c6c7245738)
+
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
