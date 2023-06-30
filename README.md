@@ -24,14 +24,15 @@
  
 ![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/e809564e-2c72-4c0c-a870-4dd9c923f326)
 
-<details>
+<br />
 
-<summary><b> LITTLE STORIES ABOUT SNEAKERS <!-- { DESIGNED && DEVELOPED } --> </b></summary>
+<details>
+<summary><b> FAMIGLIA. <!-- { DESIGNED && DEVELOPED } --> </b></summary>
 
 
 <br />
 
-<img width="1200px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
+<img width="1200px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
 
 #### BUILT WITH : 
 
@@ -40,7 +41,6 @@
 </details>
 
 <br />
-
 
 <details>
 <summary><b> DARKMODE PORTFOLIO <!-- { DESIGNED && DEVELOPED } --> </b></summary>
@@ -58,14 +58,14 @@
 
 <br />
 
-
 <details>
-<summary><b> FAMIGLIA. <!-- { DESIGNED && DEVELOPED } --> </b></summary>
+
+<summary><b> LITTLE STORIES ABOUT SNEAKERS <!-- { DESIGNED && DEVELOPED } --> </b></summary>
 
 
 <br />
 
-<img width="1200px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
+<img width="1200px" alt="Capture d’écran 2023-04-01 à 20 31 27" src="https://user-images.githubusercontent.com/102388803/229308368-be4de66b-c54c-49e5-b453-ba959c44f569.png"> 
 
 #### BUILT WITH : 
 
