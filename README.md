@@ -1,4 +1,7 @@
-![rffsfsedf-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/5d67f597-d538-4e35-8f73-91c8141ef5bf)
+
+![nqdjkqsnd-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/de6e27ca-ff67-4df6-8436-c9c4fd3f3f86)
+
+<!-- ![rffsfsedf-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/5d67f597-d538-4e35-8f73-91c8141ef5bf)  -->
 
 ![linkedinlogolast-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/b0f21c29-b3b3-458f-81fc-d9ef120770a4)
 
