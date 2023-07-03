@@ -8,7 +8,7 @@
 
 
 <details>
-<summary><b>BUILT WITH : </b></summary>
+<summary><b>BUILT WITH</b></summary>
  
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,scss,nodejs,vscode,github,git)](https://skillicons.dev)
 
@@ -22,7 +22,7 @@
 
 <details>
  
-<summary><b>BUILT WITH : </b></summary>
+<summary><b>BUILT WITH</b></summary>
 
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,nodejs,vscode,github,git)](https://skillicons.dev)
 
