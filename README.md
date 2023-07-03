@@ -44,9 +44,17 @@
 
 <details>
  
-<summary><b>BUILT WITH :</b></summary> 
+<summary><b>BUILT WITH </b></summary> 
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+
+</details>
+
+<details>
+ 
+<summary><b>REPOSIT</b></summary> 
+
+https://github.com/Alicexplore/The_Famiglia_Project
 
 </details>
 
@@ -64,13 +72,28 @@
 
 <details>
 
-<summary><b>BUILT WITH :</b></summary> 
+<summary><b>BUILT WITH</b></summary> 
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
 
 </details>
 
+<details>
+ 
+<summary><b>REPOSIT</b></summary> 
+
+https://github.com/Alicexplore/The_Portfolio_Project
+
+</details>
+
+<details>
+ 
+<summary><b>WEBSITE</b></summary> 
+
 https://the-portfolio-project.vercel.app/
+
+</details>
+
 
 </details>
 
@@ -87,9 +110,17 @@ https://the-portfolio-project.vercel.app/
 
 <details>
 
-<summary><b>BUILT WITH :</b></summary> 
+<summary><b>BUILT WITH</b></summary> 
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css,vscode,ai,figma,github,git)](https://skillicons.dev)
+
+</details>
+
+<details>
+ 
+<summary><b>REPOSIT</b></summary> 
+
+https://github.com/Alicexplore/The_Sneakers_Project
 
 </details>
 
