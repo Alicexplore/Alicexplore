@@ -93,17 +93,3 @@ https://the-portfolio-project.vercel.app/
 </details>
 
 </details>
-
-<!-- ![Lightbulb](https://img.shields.io/badge/theme-light%20%F0%9F%94%A6-yellow?style=flat-square) -->
-
-<!--
-<a href="https://linkedin.com/in/alicebergonhe">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px;">
-</a>
-<a href="https://twitter.com/alicexplore">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" style="width: 50px;">
-</a>
-<a href="https://instagram.com/alice_.xplore/">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" style="width: 50px;">
-</a>
-  -->
