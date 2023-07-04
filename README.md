@@ -32,7 +32,6 @@
 
 ![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/6e656bf4-adc6-4cd7-a72f-10a652e0fa76)
 
-<br />
 
 <details>
 <summary><b> FAMIGLIA. <!-- { DESIGNED && DEVELOPED } --> </b></summary>
