@@ -2,7 +2,7 @@
 
 <!-- ![rffsfsedf-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/5d67f597-d538-4e35-8f73-91c8141ef5bf)  -->
 
-![linkedinlogo-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/e559f74e-228b-4a43-b58b-645cde3cadc3)
+![cdscds-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/55e552b6-8ba6-4f12-a6ea-4d345c92274f)
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 
@@ -11,6 +11,18 @@
 <summary><b>BUILT WITH</b></summary>
  
 [![My Skills](https://skillicons.dev/icons?i=ember,js,html,scss,nodejs,vscode,github,git)](https://skillicons.dev)
+
+</details>
+
+![sdsdsqd-05](https://github.com/Alicexplore/Alicexplore/assets/102388803/a9972e6c-7109-42d0-aaaa-2557f8b17ee2)
+
+![VHS-22](https://github.com/Alicexplore/Alicexplore/assets/102388803/a8534a6c-14cf-4b07-8119-03a7aa9f3ea5)
+
+<details>
+ 
+<summary><b>BUILT WITH</b></summary>
+
+[![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,nodejs,vscode,github,git)](https://skillicons.dev)
 
 </details>
 
