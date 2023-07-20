@@ -68,8 +68,8 @@ https://github.com/Alicexplore/The_Famiglia_Project
 <summary><b> DARKMODE PORTFOLIO <!-- { DESIGNED && DEVELOPED } --> </b></summary>
 
   <br />
-
-<img width="1200px" alt="Capture d’écran 2023-07-20 à 14 54 59" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/bc646f18-95fd-4d62-9810-201a95272963">
+  
+<img width="1200px" alt="Capture d’écran 2023-07-20 à 14 56 39" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/54ec30d2-cd1f-41ac-891f-7d9aa607a530">
 
 <details>
 
