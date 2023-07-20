@@ -69,8 +69,7 @@ https://github.com/Alicexplore/The_Famiglia_Project
 
   <br />
 
-
-<img width="1200px" alt="Capture d’écran 2023-04-17 à 15 11 43" src="https://user-images.githubusercontent.com/102388803/232495308-237ed876-a45d-4e6a-87df-86891a875ff4.png">
+<img width="1200px" alt="Capture d’écran 2023-07-20 à 14 54 59" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/bc646f18-95fd-4d62-9810-201a95272963">
 
 <details>
 
