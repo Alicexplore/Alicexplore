@@ -1,6 +1,16 @@
 ![linkedinlogo-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/5246144a-a354-47f6-8d3d-af2e527c343e)
 
-![cdscds-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/55e552b6-8ba6-4f12-a6ea-4d345c92274f)
+![linkedinlogo-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/60fc65e5-96d7-475c-8cd1-8ddc9989e8ed)
+
+<img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/4eb4810b-d313-412b-99f9-d2d49e290e0a">
+<details> 
+<summary><b>BUILT WITH</b></summary>
+ 
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,git)](https://skillicons.dev)
+
+</details>
+
+![linkedinlogo-05](https://github.com/Alicexplore/Alicexplore/assets/102388803/b4b5dfbc-d4c1-423f-bc62-0f3f22ef8422)
 
 <img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/a28952e2-e06e-414e-999e-e8c2bafd98d9">
 <details>
@@ -11,36 +21,12 @@
 
 </details>
 
-![linkedinlogo-05](https://github.com/Alicexplore/Alicexplore/assets/102388803/b4b5dfbc-d4c1-423f-bc62-0f3f22ef8422)
-
-<img width="1200px" alt="Capture d’écran 2023-06-23 à 22 05 42" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/d702cfd4-4452-4533-ac05-acc9df84ad36">
-<details> 
-<summary><b>BUILT WITH</b></summary>
- 
-[![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,nodejs,vscode,github,git)](https://skillicons.dev)
-
-</details>
-
-![linkedinlogo-05](https://github.com/Alicexplore/Alicexplore/assets/102388803/8358db17-c879-4788-bca2-c6edc9f6637f)
-
-<img width="1200px" alt="Capture d’écran 2023-06-08 à 13 04 22" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/4008501a-f5f8-4d57-b42d-56e6d98852f5">
-<details>
-<summary><b>BUILT WITH</b></summary>
- 
-[![My Skills](https://skillicons.dev/icons?i=ember,js,html,css,nodejs,vscode,github,git)](https://skillicons.dev)
-
-</details>
-
 ![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/6e656bf4-adc6-4cd7-a72f-10a652e0fa76)
-
 
 <details>
 <summary><b> FAMIGLIA. <!-- { DESIGNED && DEVELOPED } --> </b></summary>
 
-
 <br />
-
-
 
 <img width="1200px" alt="Capture d’écran 2023-04-13 à 19 04 53" src="https://user-images.githubusercontent.com/102388803/231833260-6d375913-b7f9-4327-ad5c-4c7c0be734ad.png">
 
