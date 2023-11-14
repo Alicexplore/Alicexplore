@@ -2,12 +2,12 @@
 
 ![linkedinlogo-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/60fc65e5-96d7-475c-8cd1-8ddc9989e8ed)
 
-<img width="1200px" alt="https://github.com/Alicexplore/Alicexplore/assets/102388803/6abae41a-db5d-41f4-b2f7-96c2c3f3382c">
+<img width="1200px" alt="void" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/45b68016-3c22-4ac1-8f4d-67166ecd5cda">
 
 <details> 
 <summary><b>BUILT WITH</b></summary>
  
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxt,tailwind,html,css,vscode,github,git)](https://skillicons.dev)
 
 </details>
 
