@@ -1,6 +1,6 @@
 ![linkedinlogo-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/5246144a-a354-47f6-8d3d-af2e527c343e)
 
-![currentproject-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/46df3976-9052-4dd2-b206-2d980cddaf9a)
+![currentproject-08-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/228406c0-3325-4b7e-84ac-457c51001cd6)
 
 <img width="1200px" alt="void" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/336b72a5-4c89-47c3-ba7f-346bfb94edf3">
 
