@@ -7,7 +7,7 @@
 <details> 
 <summary><b>BUILT WITH</b></summary>
  
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css,sass,ai,vscode,github,git)](https://skillicons.dev)
 
 </details>
 
