@@ -1,8 +1,8 @@
 ![hi-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/aa82310a-5f78-4a30-89db-099ac9d9fbeb)
 
-![currentproject-08-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/228406c0-3325-4b7e-84ac-457c51001cd6)
+![currentproject-08-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/eb25bc4d-00cd-49c5-96f6-7424f8c349bf)
 
-<img width="1200px" alt="bergk" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/336b72a5-4c89-47c3-ba7f-346bfb94edf3">
+<img width="1200px" alt="alabama" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/8da934f3-3981-49c6-845b-c7ea94d8d241">
 
 <details> 
 <summary><b>BUILT WITH</b></summary>
