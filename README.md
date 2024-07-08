@@ -78,7 +78,7 @@ https://the-portfolio-project.vercel.app/
 
 <details>
 
-<summary><b> LITTLE STORIES ABOUT SNEAKER</b></summary>
+<summary><b> LITTLE STORIES ABOUT SNEAKERS</b></summary>
 
 
 <br />
