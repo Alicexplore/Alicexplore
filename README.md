@@ -1,13 +1,13 @@
 ![hi-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/aa82310a-5f78-4a30-89db-099ac9d9fbeb)
 
-![currentproject-08-08](https://github.com/Alicexplore/Alicexplore/assets/102388803/c816fff7-3720-4dc8-a078-c67203238e72)
+![githubreadme](https://github.com/user-attachments/assets/c716f07a-f263-4ab5-a102-5767f682b61f)
 
-<img width="1200px" alt="alabama" src="https://github.com/Alicexplore/Alicexplore/assets/102388803/8da934f3-3981-49c6-845b-c7ea94d8d241">
+<img width="1200px" alt="portfolio" src="https://github.com/user-attachments/assets/f5a9e640-058a-4e92-9d77-60032dccaf78">
 
 <details> 
 <summary><b>BUILT WITH</b></summary>
  
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css,sass,ai,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind,js,html,css,ai,vscode,github,git)](https://skillicons.dev)
 
 </details>
 
