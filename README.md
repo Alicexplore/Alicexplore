@@ -4,10 +4,12 @@
 
 <img width="1200px" alt="portfolio" src="https://github.com/user-attachments/assets/f5a9e640-058a-4e92-9d77-60032dccaf78">
 
+
+
 <details> 
 <summary><b>BUILT WITH</b></summary>
  
-[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind,js,html,css,ai,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind,js,html,css,vscode,github,git)](https://skillicons.dev)
 
 </details>
 
