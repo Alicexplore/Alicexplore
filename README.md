@@ -2,7 +2,7 @@
 
 ![githubreadme](https://github.com/user-attachments/assets/c716f07a-f263-4ab5-a102-5767f682b61f)
 
-<img width="1200px" alt="portfolio" src="https://github.com/user-attachments/assets/12bf743c-19d2-476b-adf4-22f273844012">
+<img width="1200px" alt="portfolio" src="https://github.com/user-attachments/assets/0e2f207c-7c51-46a3-8da7-ce787c0d5b95">
 
 <details> 
 <summary><b>BUILT WITH</b></summary>
