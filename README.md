@@ -1,6 +1,6 @@
 ![hi-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/aa82310a-5f78-4a30-89db-099ac9d9fbeb)
 
-![githubreadme](https://github.com/user-attachments/assets/c716f07a-f263-4ab5-a102-5767f682b61f)
+![linkedinlogo](https://github.com/user-attachments/assets/317c72dd-72a0-413c-910f-5828cf476ca3)
 
 <img width="1200px" alt="portfolio" src="https://github.com/user-attachments/assets/6618d716-cd04-4e69-b58e-898760a3f05a" />
 
