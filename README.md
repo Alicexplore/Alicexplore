@@ -11,7 +11,8 @@
 
 </details>
 
-![linkedinlogo-07](https://github.com/Alicexplore/Alicexplore/assets/102388803/6e656bf4-adc6-4cd7-a72f-10a652e0fa76)
+![linkedinlogo](https://github.com/user-attachments/assets/f94dd56d-8232-4900-9ce6-ece8f7681f5f)
+
 
 <details>
 <summary><b> FAMIGLIA. <!-- { DESIGNED && DEVELOPED } --> </b></summary>
