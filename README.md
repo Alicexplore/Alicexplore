@@ -11,11 +11,13 @@
 
 </details>
 
+<!--
+
 ![linkedinlogo](https://github.com/user-attachments/assets/f94dd56d-8232-4900-9ce6-ece8f7681f5f)
 
 
 <details>
-<summary><b> FAMIGLIA. <!-- { DESIGNED && DEVELOPED } --> </b></summary>
+<summary><b> FAMIGLIA.  { DESIGNED && DEVELOPED } </b></summary>
 
 <br />
 
@@ -42,7 +44,7 @@ https://github.com/Alicexplore/The_Famiglia_Project
 <br />
 
 <details>
-<summary><b> DARKMODE PORTFOLIO <!-- { DESIGNED && DEVELOPED } --> </b></summary>
+<summary><b> DARKMODE PORTFOLIO  { DESIGNED && DEVELOPED }  </b></summary>
 
   <br />
   
@@ -103,3 +105,5 @@ https://github.com/Alicexplore/The_Sneakers_Project
 </details>
 
 </details>
+
+ -->
