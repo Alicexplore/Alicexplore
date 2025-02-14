@@ -2,7 +2,7 @@
 
 ![linkedinlogo](https://github.com/user-attachments/assets/317c72dd-72a0-413c-910f-5828cf476ca3)
 
-<img width="1440" alt="A-013 screenshot" src="https://github.com/user-attachments/assets/a30a056f-4b92-41d9-89e0-a27fa8e30d20" />
+<img width="1440" alt="A-013 screenshot" src="https://github.com/user-attachments/assets/57187532-8aac-4efb-b706-42d916c0bdd8" />
 
 <details> 
 <summary><b>BUILT WITH</b></summary>
