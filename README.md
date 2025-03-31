@@ -1,4 +1,4 @@
-  ![hi-06](https://github.com/Alicexplore/Alicexplore/assets/102388803/aa82310a-5f78-4a30-89db-099ac9d9fbeb)
+![githubreadme](https://github.com/user-attachments/assets/02c10cd6-97c5-4260-90c8-66f959454bb5)
 
 ![linkedinlogo](https://github.com/user-attachments/assets/317c72dd-72a0-413c-910f-5828cf476ca3)
 
